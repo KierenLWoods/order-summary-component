@@ -30,8 +30,8 @@ This is my attempt at the Order summary card challenge
 
 ### Links
 
-- Solution URL: [Github](https://github.com/KierenLWoods/order-summary-card)
-- Live Site URL: [Add live site URL here](https://kierenlwoods.github.io/order-summary-card/)
+- Solution URL: [Github](https://github.com/KierenLWoods/order-summary-component)
+- Live Site URL: [Add live site URL here](https://kierenlwoods.github.io/order-summary-component/)
 
 ## My process
 ### Built with
